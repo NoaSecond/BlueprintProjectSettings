@@ -3,6 +3,7 @@
 
 #include "GeneralProjectSettings.h"
 #include "UObject/UnrealType.h"
+#include "UObject/TextProperty.h"
 #include "UObject/SoftObjectPtr.h"
 #include "Engine/Texture2D.h"
 
