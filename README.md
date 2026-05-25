@@ -1,0 +1,2 @@
+# BlueprintProjectSettings
+Unreal Engine Plugin
