@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-    "VersionName": "1.0.1 - UE5.7",
+    "VersionName": "1.0.2 - UE5.7",
     "EngineVersion": "5.7",
 	"FriendlyName": "Blueprint Project Settings",
 	"Description": "Blueprint nodes for reading project settings metadata from GeneralProjectSettings.",
@@ -9,7 +9,7 @@
 	"CreatedBy": "Noa Second",
 	"CreatedByURL": "https://noasecond.com",
 	"DocsURL": "https://github.com/NoaSecond/BlueprintProjectSettings/blob/main/README.md",
-	"MarketplaceURL": "https://github.com/NoaSecond/BlueprintProjectSettings",
+	"MarketplaceURL": "https://www.fab.com/listings/6a657f63-8d1d-468f-96c7-83e5a0ae7be2",
 	"SupportURL": "https://github.com/NoaSecond/BlueprintProjectSettings",
     "Icon": "Resources/Icon128.png",
 	"CanContainContent": false,
