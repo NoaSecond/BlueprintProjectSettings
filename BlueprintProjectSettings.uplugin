@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-    "VersionName": "1.0.2 - UE5.7",
-    "EngineVersion": "5.7",
+	"VersionName": "1.0.2 - UE5.4",
+	"EngineVersion": "5.4",
 	"FriendlyName": "Blueprint Project Settings",
 	"Description": "Blueprint nodes for reading project settings metadata from GeneralProjectSettings.",
 	"Category": "Blueprint",
